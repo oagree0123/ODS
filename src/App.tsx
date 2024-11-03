@@ -1,7 +1,9 @@
+import SelectExample from './examples/Select/SelectEaxmple';
+
 function App() {
   return (
     <>
-      <p>Hello, World</p>
+      <SelectExample />
     </>
   );
 }
